@@ -2,3 +2,5 @@
 node_modules
 monguipass.txt
 .env
+.env-DALE
+env
